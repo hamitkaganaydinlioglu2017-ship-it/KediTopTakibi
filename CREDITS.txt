@@ -1,0 +1,37 @@
+======================================================================
+                      EMEĞİ GEÇENLER / CREDITS
+======================================================================
+
+[TR] TÜRKÇE
+----------------------------------------------------------------------
+Bu projenin geliştirilmesinde aşağıdaki açık kaynaklı varlıklar ve 
+ses efektleri kullanılmıştır. Katkılarından dolayı içerik üreticilerine 
+teşekkür ederiz:
+
+* Ses Efektleri:
+  - "KediMirlama.wav" ses efekti Pixabay üzerinden Yomecerlm3 
+    tarafından sağlanmıştır.
+    (Bağlantı: https://pixabay.com/tr/users/yomecerlm3-44330422/)
+
+* Görseller ve İkonlar:
+  - "KediTopTakibi.ico" kedi hayvan ikonu Icon-Icons.com üzerinden 
+    kerismaker tarafından tasarlanmıştır.
+    (Bağlantı: https://icon-icons.com/authors/750-kerismaker)
+
+
+----------------------------------------------------------------------
+[EN] ENGLISH
+----------------------------------------------------------------------
+The following open-source assets and sound effects were used in the 
+development of this project. Special thanks to the creators for their 
+contributions:
+
+* Sound Effects:
+  - "KediMirlama.wav" Sound Effect by Yomecerlm3 via Pixabay.
+    (Link: https://pixabay.com/tr/users/yomecerlm3-44330422/)
+
+* Graphics & Icons:
+  - "KediTopTakibi.ico" Cat animal Icon by kerismaker via Icon-Icons.com.
+    (Link: https://icon-icons.com/authors/750-kerismaker)
+
+======================================================================
