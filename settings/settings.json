@@ -1,0 +1,28 @@
+{
+  "_DESCRIPTION": "Change the values below to customize the app's behavior, language and sounds WITHOUT touching the source code or the .exe. Keep this 'settings' folder in the SAME folder as KediTopTakibi.exe; it is re-read every time the app starts.",
+
+  "LANGUAGE": "tr",
+  "_LANGUAGE_NOTE": "File name (without extension) inside the settings/lang folder. Default is Turkish ('tr'). To add a new language, drop e.g. 'de.json' into settings/lang and set this to 'de'. No recompilation needed.",
+
+  "LANGUAGE_FOLDER": "lang",
+  "_LANGUAGE_FOLDER_NOTE": "Name of the subfolder (inside settings) that contains the language files.",
+
+  "SOUND_FILE": "assets/KediMirlama.wav",
+  "_SOUND_FILE_NOTE": "Sound file path, relative to the settings folder. Drop your own .wav file into settings/assets and change the file name here to customize it. No recompilation needed.",
+
+  "PURR_MIN_DELAY_MS": 7000,
+  "PURR_MAX_DELAY_MS": 24000,
+
+  "CLICK_THROUGH": true,
+  "TRANSPARENT_KEY": "#010101",
+  "FPS": 60,
+  "MULTI_MONITOR_SUPPORT": true,
+
+  "CAT_SPEED": 0.06,
+  "BALL_SPEED": 0.18,
+  "STOP_DISTANCE": 70,
+
+  "BORED_AFTER_SECONDS": 5.0,
+  "BUBBLE_DURATION": 4.0,
+  "FORCED_BLINK_FRAMES": 10
+}
